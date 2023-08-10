@@ -1,0 +1,15 @@
+References
+
+
+Node Mongo DB reference:
+https://www.mongodb.com/docs/drivers/node/current/quick-reference/
+https://www.mongodb.com/docs/drivers/node/current/fundamentals/crud/query-document/#std-label-node-fundamentals-query-document
+
+
+To get all documents from a collection:
+https://stackoverflow.com/questions/21626896/nodejs-mongodb-native-find-all-documents
+
+
+Elem matching (inside array)
+https://www.mongodb.com/docs/manual/reference/operator/query/elemMatch/
+https://www.tutorialspoint.com/how-to-filter-documents-based-on-an-array-in-mongodb
